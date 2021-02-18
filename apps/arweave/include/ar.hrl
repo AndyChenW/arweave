@@ -47,7 +47,7 @@
 -define(PRIV_KEY_SZ, 4096).
 
 %% The difficulty a new weave is started with.
--define(DEFAULT_DIFF, 8).
+-define(DEFAULT_DIFF, 6).
 
 -ifndef(TARGET_TIME).
 -define(TARGET_TIME, 120).
